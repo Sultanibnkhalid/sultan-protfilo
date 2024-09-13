@@ -146,6 +146,7 @@ header
 ----------------------*/
 header{
   background-color: #eeeeee;
+  
 }
 .header .navbar .logo a{
   font-size: larger;
@@ -212,7 +213,7 @@ header{
 
 @keyframes trnslateX {
   0% {
-      transform: translateX(-500px);
+      transform: translateX(200px);
       
   }
 
